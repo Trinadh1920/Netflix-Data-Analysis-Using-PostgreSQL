@@ -1,4 +1,5 @@
 # 📊 Netflix Data Analysis Project Using PostgreSQL
+<img src="images/logo.jpg" width = 1000 height = 500 />
 
 ## 🎯 Project Overview
 
@@ -782,8 +783,8 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## 📞 Contact & Connect
 
-- **LinkedIn**: [https://www.linkedin.com/in/rajesh-chowdary-nimmalapudi-22bbbb317]
-- **Email**: [nimmalapudirajesh466@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/trinadh-011a2b274/]
+- **Email**: [nimmalapuditrinadh@gmail.com]
 
 
 
